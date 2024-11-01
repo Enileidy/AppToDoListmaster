@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cor de fundo principal da aplicação -->
+    <color name="background">##FFFFFF</color>
+
+    <!-- Cor para o título da aplicação e título da lista de tarefas -->
+    <color name="titleColor">#F3F8F6</color>
+
+    <!-- Cor para todas letras e editText -->
+    <color name="letraColor">#FFFFFF</color>
+
+    <!-- Cor de fundo barra To Do List -->
+    <color name="fundoBarra">#9FE2BF</color>
+
+    <!-- Cor do botão de adicionar tarefa -->
+    <color name="addButton">#9FE2BF</color>
+
+    <!-- Cor do divisor da lista de tarefas -->
+    <color name="divider_color">#F3F8F6</color>
+
+    <color name="TextView1">#FFFFFF</color>
+
+    <color name="tintMode">#9FE2BF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#F88379</color>
+    <color name="red">#c13b34</color>
+
+</resources>
